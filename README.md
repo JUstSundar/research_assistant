@@ -25,7 +25,7 @@ A full-stack AI-powered research assistant that allows users to upload documents
 | Backend    | Flask, LangChain, Ollama  |
 | API Testing| Postman                   |
 | LLM        | Ollama (e.g. Mistral, LLaMA) |
-| Vector DB  | FAISS (or Chroma)         |
-| File Upload| Flask + PyMuPDF / PDF Parser |
+| Vector DB  |  Chroma                   |
+| File Upload| PDF Parser                |
 
 ---
